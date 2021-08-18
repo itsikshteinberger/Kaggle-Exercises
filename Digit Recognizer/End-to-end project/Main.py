@@ -18,9 +18,10 @@ def predict():
     Cur_img = np.array(Cur_img)
     tensor = torch.from_numpy(Cur_img)
     tensor = tensor.reshape(1, 1, 28, 28)
-    output = net(tensor.float())
-
-    my_string_var.set("Your digit is " + str(torch.argmax(output).item()))
+    
+    with torch.no_grad():
+        output = net(tensor.float())
+        my_string_var.set("Your digit is " + str(torch.argmax(output).item()))
 
 
 def activate_paint(e):
