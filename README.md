@@ -8,3 +8,8 @@ Hi, this is me :see_no_evil: doing some exercises from [Kaggle site](https://www
 ## Exercise number two: US Police Shootings - Prepared for Visualization :chart_with_upwards_trend:
 - [The problem](https://www.kaggle.com/ahsen1330/us-police-shootings)
 - [My solution](https://github.com/itsikshteinberger/Kaggle-Exercises/tree/main/USA%20shooting)
+
+
+## Exercise number two: US Police Shootings - Prepared for Visualization :eight:
+- [The problem](https://www.kaggle.com/c/digit-recognizer)
+- [My solution](https://github.com/itsikshteinberger/Kaggle-Exercises/tree/main/Digit%20Recognizer/Solution)
