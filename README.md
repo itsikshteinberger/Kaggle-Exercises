@@ -10,6 +10,6 @@ Hi, this is me :see_no_evil: doing some exercises from [Kaggle site](https://www
 - [My solution](https://github.com/itsikshteinberger/Kaggle-Exercises/tree/main/USA%20shooting)
 
 
-## Digit Recognizer - the famous MNIST data :eight:
+## Exercise number three: Digit Recognizer - the famous MNIST data :eight:
 - [The problem](https://www.kaggle.com/c/digit-recognizer)
 - [My solution](https://github.com/itsikshteinberger/Kaggle-Exercises/tree/main/Digit%20Recognizer/Solution)
