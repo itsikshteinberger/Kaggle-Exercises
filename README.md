@@ -14,6 +14,6 @@ Hi, this is me :see_no_evil: doing some exercises from [Kaggle site](https://www
 - [The problem](https://www.kaggle.com/c/digit-recognizer)
 - [My solution](https://github.com/itsikshteinberger/Kaggle-Exercises/tree/main/Digit%20Recognizer)
 
-## Exercise number three: Frozen Lake - Reinforcement Learning Homework :snowflake:
+## Exercise number four: Frozen Lake - Reinforcement Learning Homework :snowflake:
 - [The problem](https://www.kaggle.com/c/108-2-ntut-drl-hw1)
 - [My solution](https://github.com/itsikshteinberger/Kaggle-Exercises/blob/main/Frozen%20Lake/Frozen%20Lake.ipynb)
