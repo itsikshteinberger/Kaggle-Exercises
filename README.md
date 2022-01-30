@@ -17,3 +17,7 @@ Hi, this is me :see_no_evil: doing some exercises from [Kaggle site](https://www
 ## Exercise number four: Frozen Lake - Reinforcement Learning Homework :snowflake:
 - [The problem](https://www.kaggle.com/c/108-2-ntut-drl-hw1)
 - [My solution](https://github.com/itsikshteinberger/Kaggle-Exercises/blob/main/Frozen%20Lake/Frozen%20Lake.ipynb)
+
+## Exercise number five: Walmart Recruiting - Store Sales Forecasting :shopping_cart:
+- [The problem](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
+- [My solution](https://github.com/itsikshteinberger/Kaggle-Exercises/blob/main/Walmart%20sales%20forecasting/walmart-recruiting-store-sales-forecasting.ipynb)
